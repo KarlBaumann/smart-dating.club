@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dada6eff-a67a-4dfa-b5a0-e093f23ac6b6" name="srv.bauman.is" url="http://srv.bauman.is">
+        <fileTransfer host="srv.bauman.is" port="22" privateKey="C:\Users\Hp\Documents\ssh\privateKey.ppk" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
